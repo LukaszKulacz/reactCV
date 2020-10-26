@@ -18,6 +18,8 @@ function App() {
           Learn React
         </a>
       </header>
+      <h1>My React APP</h1>
+      <h2>Author: Łukasz Kułacz</h2>
     </div>
   );
 }
